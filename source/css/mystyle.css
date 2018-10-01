@@ -1,0 +1,96 @@
+body{    
+    width: 100%;    
+} 
+.content{   
+    width: 60%;
+    margin: 0 auto;
+}
+.menu{
+    background-color: #FFFFFF;
+    height: 36px;
+    font-size: 12px;
+}
+.header a{
+    color: #888888;
+    text-decoration: none;
+}
+.menu-bar{
+    float: left;    
+    padding-left: 40px;
+}
+.header .menu ul{
+    list-style-type: none;
+    padding: 8px;         
+}
+.header .menu .menu-bar li{
+    float: left;
+    width: 60px;   
+}
+.header .menu .shopping-cart li{
+    float: left;
+    margin-right: 15px; 
+}
+.fa-shopping-cart:before{
+    color:#888888;
+    font-size: 20px;    
+}
+.fa-user:before{
+    color:#888888;
+    font-size: 20px;    
+}
+.category{
+    background-color: #F2F2F2;
+    height: 100px;   
+    color: #888888;   
+}
+.shopname{
+    padding-left: 50px;
+    font-size: 30px;
+    color: black;
+    font-style: normal;
+    padding-top: 25px;
+}
+.category-menu li{
+    float: left;
+    list-style-type: none;
+    margin-right: 20px; 
+    margin-top: 35px;  
+}
+.search{
+    margin-top: 35px;
+    padding-right: 60px; 
+    text-align-last: right;   
+}
+.fa-search:before{
+    font-size: 18px;
+}
+.banner{
+    background-color: aquamarine;
+    height: 865px;
+}
+.options{
+    background-color: pink;
+    height: 333px;
+}
+.categories{
+    background-color: blue;
+    height: 855px;
+}
+.products{
+    background-color: brown;   
+    height: 1257px; 
+}
+.services{
+    background-color: blueviolet;
+    height: 776px;
+}
+.contact-info{
+    background: gray;
+    height: 600px;
+}
+.map{
+    background: green;
+    height: 400px;
+}
+
+
